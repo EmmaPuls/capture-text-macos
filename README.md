@@ -7,7 +7,7 @@ Press **⌘⇧2**, select an area of the screen, and the text in that area is co
 Requires the Xcode command line tools, for `swiftc`. If you don't have them, run `xcode-select --install`.
 
 ```bash
-./macos/scripts/capture-text-tool/install-capture-text.sh
+./install-capture-text.sh
 ```
 
 The installer:
